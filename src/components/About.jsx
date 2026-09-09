@@ -86,7 +86,7 @@ function About() {
                         </span>
 
                         <p>
-                            Software • Networking • Systems
+                            Web development • Networking • Systems Admin
                         </p>
 
                         <span>

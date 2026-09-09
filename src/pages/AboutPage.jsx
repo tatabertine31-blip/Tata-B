@@ -82,12 +82,12 @@ function About() {
               </span>
 
               <p>
-                Software & Systems
+                Networking and Security
               </p>
 
               <span>
                 Full-stack development, networking and
-                computer systems.
+                Sytems Administration.
               </span>
             </div>
 
@@ -102,7 +102,7 @@ function About() {
               </p>
 
               <span>
-                Bilingual communication.
+                Bilingual communication and writing.
               </span>
             </div>
 
@@ -113,7 +113,7 @@ function About() {
               </span>
 
               <p>
-                Learn. Build. Contribute.
+                gaining expertise in networking, web development and systems administration
               </p>
 
               <span>
@@ -162,7 +162,7 @@ function About() {
               <span>02</span>
 
               <h4>
-                Systems
+                Systems Aministration
               </h4>
 
               <p>

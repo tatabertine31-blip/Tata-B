@@ -7,16 +7,16 @@ function Services() {
           <p className="page-label">WHAT I OFFER</p>
           <h1>Services</h1>
           <p className="page-intro">
-            This is your services page. The content here is independent from Projects,
-            so you can replace these cards with the services you want to offer.
+            I offer several services across different departments
+            these services are stated below. feel free to contact me
           </p>
         </div>
       </div>
 
       <div className="services-list">
-        <article className="service-card"><span>01</span><h2>Web Development</h2><p>Custom responsive websites and modern web interfaces.</p></article>
-        <article className="service-card"><span>02</span><h2>Backend Development</h2><p>APIs, application logic, databases, and backend services.</p></article>
-        <article className="service-card"><span>03</span><h2>UI & Responsive Design</h2><p>Clean, responsive interfaces designed for phones, tablets, and desktop.</p></article>
+        <article className="service-card"><span>01</span><h2>Websites and Apps</h2><p>Custom responsive websites modern web interfaces and apps.</p></article>
+        <article className="service-card"><span>02</span><h2>graphic Designing</h2><p>Realistic fliers, invitation cards and many others.</p></article>
+        <article className="service-card"><span>03</span><h2>Sysem Admin</h2><p>Building VM wares that support system maintainance where necessary.</p></article>
         <article className="service-card"><span>04</span><h2>Systems & Networking</h2><p>Practical support around computer systems, networks, and technical projects.</p></article>
       </div>
     </section>

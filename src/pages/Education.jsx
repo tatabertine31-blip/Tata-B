@@ -19,8 +19,8 @@ function Education() {
     {
       year: "HIGH SCHOOL",
       category: "SECONDARY EDUCATION",
-      title: "General & Technical Education",
-      institution: "Oxford Comprehensive High School",
+      title: "General Education",
+      institutions: "Oxford Comprehensive High School and GBHS Mendong",
       description:
         "Completed secondary education while developing the academic foundation that led to my interest in technology, computing, and engineering.",
       tags: [
