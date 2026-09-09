@@ -17,10 +17,7 @@ function Contact() {
             <span> something.</span>
           </h1>
 
-          <p className="contact-intro">
-            Have a project, internship opportunity, collaboration,
-            or simply want to connect? I would love to hear from you.
-          </p>
+          
 
         </div>
 
@@ -52,7 +49,7 @@ function Contact() {
             <div className="contact-actions">
 
               <a
-                href="https://wa.me/YOUR_NUMBER"
+                href="https://wa.me/675121391"
                 target="_blank"
                 rel="noreferrer"
                 className="contact-primary-button"
@@ -62,7 +59,7 @@ function Contact() {
               </a>
 
               <a
-                href="mailto:YOUR_EMAIL@example.com"
+                href="mailto:tatabertine31@gmail.com"
                 className="contact-secondary-button"
               >
                 Send an Email
@@ -84,7 +81,7 @@ function Contact() {
               </span>
 
               <a href="mailto:YOUR_EMAIL@example.com">
-                YOUR_EMAIL@example.com
+                tatabertine31@gmail.com
               </a>
 
             </div>
@@ -97,7 +94,7 @@ function Contact() {
               </span>
 
               <a
-                href="https://wa.me/YOUR_NUMBER"
+                href="https://wa.me/675121391"
                 target="_blank"
                 rel="noreferrer"
               >
@@ -115,7 +112,7 @@ function Contact() {
               </span>
 
               <a
-                href="YOUR_LINKEDIN_URL"
+                href="https://www.linkedin.com/in/tata-bertine-kumla-0228b1402/"
                 target="_blank"
                 rel="noreferrer"
               >
@@ -133,7 +130,7 @@ function Contact() {
               </span>
 
               <a
-                href="YOUR_GITHUB_URL"
+                href="https://github.com/tatabertine31-blip"
                 target="_blank"
                 rel="noreferrer"
               >
@@ -154,7 +151,7 @@ function Contact() {
           <span className="availability-dot"></span>
 
           <span>
-            OPEN TO INTERNSHIP OPPORTUNITIES
+            OPEN TO JOB OPPORTUNITIES
           </span>
 
         </div>

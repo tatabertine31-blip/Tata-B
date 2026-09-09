@@ -99,7 +99,7 @@ function Hero() {
 
                 <div className="hero-status">
                     <span className="status-dot"></span>
-                    OPEN TO INTERNSHIP OPPORTUNITIES
+                    OPEN TO JOB OPPORTUNITIES
                 </div>
 
                 <p className="hero-category">
